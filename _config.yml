@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Saurabh Das"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio_photo_saurabhdas.jpg"
   bio    : "Software Developer/Architect, OSS Evangelist, Photographer,National & International Correspondence Chess Player, SBTF CrisisMapper."
   links:
     - label: "Website"
