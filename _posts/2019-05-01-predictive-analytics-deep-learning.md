@@ -9,19 +9,19 @@ tags:
   - predictive analytics
 ---
 
-A good monitoring method, should understand the current and past trends, and based on that should be able to predict the future scores.
+A good performance monitoring method, should understand the current and past trends, and based on that should be able to predict the future scores.
 Time series model is purely dependent on the idea that past behavior and patterns can be used to predict future price behavior.
 
-Deep Learning methods, such as Recurrent neural nets(RNN), Long Short-Term Memory(LSTM), offers a lot of promise for Time Series forecasting, such as the automatic learning of temporal dependence and the automatic handling of temporal structures like trends and seasonality.
+Deep Learning methods, such as **Recurrent neural nets(RNN)**, **Long Short-Term Memory(LSTM)**, offers a lot of promise for _Time Series forecasting_, such as the automatic learning of temporal dependence and the automatic handling of temporal structures like trends and seasonality.
 
 Recurrent neural nets(RNN) are a type of artificial neural network designed to recognize patterns in sequences of data, such as 
 1. Text Eg. Handwriting, genome code sequences.
 2. Number Eg. Times series data emanating from sensors, stock markets 
 
-Long Short-Term Memory (LSTM) networks are a type of recurrent neural network capable of learning order dependence in sequence prediction problems. Recently, there has been high emphasis on usage of LSTM for predicting 
+**Long Short-Term Memory (LSTM)** networks are a type of recurrent neural network capable of learning order dependence in sequence prediction problems. Recently, there has been high emphasis on usage of LSTM for predicting 
 
-Methodology used for LSTM in Clinical Trial data
-* Calculated the AE Rate, SAE Rate, for selected sites.
+#### Methodology used for LSTM in Clinical Trial data
+* Calculated the key performance parameters for sites.
 * Transformed the time series data to supervised learning model
 * Transformed the dataset to stationary, to take care of trends, seasonality etc .
 * Scaled the model, to conform to neural network training.
