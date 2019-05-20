@@ -20,7 +20,7 @@ Recurrent neural nets(RNN) are a type of artificial neural network designed to r
 
 **Long Short-Term Memory (LSTM)** networks are a type of recurrent neural network capable of learning order dependence in sequence prediction problems. Recently, there has been high emphasis on usage of LSTM for predicting 
 
-#### Methodology used for LSTM in Clinical Trial data
+### Methodology used for LSTM in Clinical Trial data
 * Calculated the key performance parameters for sites.
 * Transformed the time series data to supervised learning model
 * Transformed the dataset to stationary, to take care of trends, seasonality etc .
