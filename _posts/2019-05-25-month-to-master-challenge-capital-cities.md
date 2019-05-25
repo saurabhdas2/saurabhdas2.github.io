@@ -30,4 +30,4 @@ An important step, to this challenge, is to identify and measure your current po
 I generally, keep myself abrest with the latest in current affairs. But, to my astonishment, i got a dismal score of 26/196, in my first formal attempt.
 So thats a huge leap to go in next 30 days.
 
-**Let's see how this goes, in my next blog**
+_Let's see how this goes, in my next blog_
