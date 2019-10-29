@@ -7,7 +7,7 @@ tags:
 ---
 
 I am starting a blog, Month to Master (M2M) series.
-This is  inspired by blog series of [Max Deutsch](https://medium.com/@maxdeutsch), in which he picks up challenging tasks, to complete it in 30 days. The best among that,was the chess match with Magnus.
+This is  inspired by blog series of [Max Deutsch](https://medium.com/@maxdeutsch), in which he picks up challenging tasks, to complete it in 30 days. The best among that,was the chess match with Magnus C.
 
 In this series, I will be picking up (_somewhat!_) tough challenges, which I would aim to complete in a month.
 In the interim, I will be blogging about the preparation and process, that is going into solving the challenge.
