@@ -28,6 +28,6 @@ For the list of capital cities, that I would be referring to those listed [here]
 ### Where do I stand today, in remembering the capitals?
 An important step, to this challenge, is to identify and measure your current position. For this, i scooped thru the internet, and got a timed quiz link [here](https://www.jetpunk.com/quizzes/name-world-capitals). This ensures coverage of all conuntries, and the timed quiz adds another dimension to the challenge !! :-)
 I generally, keep myself abrest with the latest in current affairs. But, to my astonishment, i got a dismal score of 26/196, in my first formal attempt.
-So thats a huge leap to go in next 30 days .
+So thats a huge leap to go in next 30 days.
 
 _Let's see how this goes, in my next blog_
