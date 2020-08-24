@@ -14,7 +14,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Making Visions into Reality !!
+title: Saurabh Das || Making Visions into Reality !!
 email: saurabhdas2@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Home page of Saurabh Das
