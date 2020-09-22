@@ -6,7 +6,7 @@ tags:
   - tech, troubleshooting
 ---
 
-Amid the ongoing Covid pandemic, most of the time is spent now-a-days in from of machines, working in my current day's job to create clinical platform product helping top pharma companies develop vaccine, to fight coronavirus. It's during the some rare weekend that, I get time, to spend on my pet projects and hobbies.
+Amid the ongoing Covid pandemic, most of the time is spent now-a-days in front of machines, working in my current day's job to create clinical platform product helping top pharma companies develop vaccine, to fight coronavirus. It's during the some rare weekend that, I get time, to spend on my pet projects and hobbies.
 
 On my dual boot, Dell XPS 17, i have recently created a dual boot Windows 10 and Ubuntu 20.04. Current focus has been on music production using LMMS.
 
@@ -21,7 +21,7 @@ After looking around for some answers in ubuntu forums, came across a simple sol
 2. Select a most recent - 1 kernel.
 3. Continue to boot.
 4. Most likely your issue would have resolved, and you will land in gnome desktop
-5. Run system updates to stabalize the system, and let it complete fully.
+5. Run system updates to stabilize the system, and let it complete fully.
 6. Reboot, and verify that latest kernel is now being used.
 
 This is it, a simple set of steps to fix this issue.
