@@ -3,7 +3,8 @@ title: "Solving Linux Kernel Panic Error in Ubuntu 20.X"
 categories:
   - Blog
 tags:
-  - tech, troubleshooting
+  - Tech
+  - Troubleshooting
 ---
 
 Amid the ongoing Covid pandemic, most of the time is spent now-a-days in front of machines, working in my current day's job to create clinical platform product helping top pharma companies develop vaccine, to fight coronavirus. It's during the some rare weekend that, I get time, to spend on my pet projects and hobbies.
