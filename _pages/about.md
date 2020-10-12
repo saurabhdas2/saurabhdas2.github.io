@@ -3,13 +3,13 @@ permalink: /about/
 title: "About"
 ---
 
-I am an Solution Architect, Product Manager, working at TATA Consultancy Services, based out of Mumbai.
-By education, I have done M.Tech in Software Enginnerring from BITS, Pilani and B. Tech in Information Technology from Mumbai University.
+I am an Solution Architect, Product Manager, working at TATA Consultancy Services, based out of Mumbai, India.
+I have completed by post-graduation Master of Technology (M.Tech) in Software Enginnerring from BITS, Pilani and Bachelor of Technology in Information Technology from Mumbai University.
 
-My interests lies in Data Science, System Architecture, Artifical Inteligence.
+My interests lies in Data Science, System Architecture, Artifical Inteligence, Automation, IoT.
 I love doing Java and Python programming.
 
-My other interesta are in Gardenning, Playing Chess, Photographing.
+My other interests are in Gardenning, Playing Chess, Photography.
 Lately, i have been learning Music Production and DJing.
 
-I am current holder of FIDE ICCF 'Correspondence Chess Expert'.
+I am current Title holder of FIDE ICCF 'Correspondence Chess Expert', and represent India, in multiple international Correspondence Chess Tournments.
