@@ -8,4 +8,4 @@ tags:
 link: https://saurabh-das.ml/Asteroid-Hunting/
 ---
 
-Presentation slides on Asteroid, and my experience asteroid hunting, in discovering 2 asteroids, done in collaboration with IASC and NASA.
+Presentation slides on asteroid overview, and my experience in asteroid hunting, leading to discovery of 2 asteroids. This was done in collaboration with IASC and NASA, in May 2021.
