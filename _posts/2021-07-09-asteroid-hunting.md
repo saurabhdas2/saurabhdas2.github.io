@@ -1,5 +1,5 @@
 ---
-title: "Asteroid Hunting: An Hands-on Experience and Overview"
+title: "Asteroid Hunting: Hands-on Experience and Overview"
 categories:
   - Blog
 tags:
