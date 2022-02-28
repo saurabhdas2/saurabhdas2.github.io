@@ -22,6 +22,3 @@ The infographic shows how Government's impetus and policy push to electronic man
 
 Keep safe, and look forward to a new infographic, with insights.
 
-
-
-
