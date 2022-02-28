@@ -14,7 +14,7 @@ Previously, i relied heavily on D3.js and DC.js (for cross filtering) to create 
 With the changing trends of rapid exploration and visualizations, Power BI desktop, seems to have a sweet spot. It comes in-built with many charts but also can integrate with R and python charting libraries. I still must try my hand on Python integration with Power BI (maybe a correlation plot would be good to start; something for next time).
 Power BI desktop is available for free [here](https://powerbi.microsoft.com/en-us/downloads/) .
 
-<img src="/assets/images/Infographics_ElectronicsTrendInIndia_2013_2021.PNG" alt="infographic on Electronic Production in India">
+![infographic on Electronic Production in India](/assets/images/Infographics_ElectronicsTrendInIndia_2013_2021.PNG)
 
 Seen here is Infographic, I created on Electronic production Trends in India. The data was sourced from India's Open Government Data (OGD) Platform (data.gov.in). It's a treasure trove of datasets and APIs. Many of them updated at periodic frequency, including real-time. The design and color scheme was my small attempt to replicate Financial Times visualization scheme.
 
