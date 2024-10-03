@@ -1,4 +1,3 @@
-
 ---
 title: "Formula 1 2024 Singapore Grand Prix Data Analysis"
 categories:
