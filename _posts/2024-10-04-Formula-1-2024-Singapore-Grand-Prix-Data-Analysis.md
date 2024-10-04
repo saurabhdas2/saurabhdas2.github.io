@@ -4,11 +4,10 @@ categories:
   - Blog
 tags:
   - DataAnalysis
-
 ---
 
 Formula 1 has been known to be a pinnacle of man-machine performance at its best. It not only test human endurance, judegements and intelligence but also machine's speed, realiability and performance.
-With advent of AI of-course machine has made inroads to many a different sports, eg Chess.
+With advent of AI technology has made inroads to many a different sports eg Chess. This has not only made the sports more interesting but also competiitve. While there has been some misgivings on 
 
 
 
@@ -22,7 +21,16 @@ Previously, i relied heavily on D3.js and DC.js (for cross filtering) to create 
 With the changing trends of rapid exploration and visualizations, Power BI desktop, seems to have a sweet spot. It comes in-built with many charts but also can integrate with R and python charting libraries. I still must try my hand on Python integration with Power BI (maybe a correlation plot would be good to start; something for next time).
 Power BI desktop is available for free [here](https://powerbi.microsoft.com/en-us/downloads/) .
 
-![infographic on Electronic Production in India](/assets/images/Infographics_ElectronicsTrendInIndia_2013_2021.PNG)
+![Singapore Race track](/assets/images/F1_2024_R18_SingaporeGP_RaceTrack.jpeg)
+
+![Singapore Race track](/assets/images/F1_2024_R18_SingaporeGP_RaceTyreStrategies.jpeg)
+
+
+![Singapore Race track](/assets/images/F1_2024_R18_SingaporeGP_QualiResults.jpeg)
+
+![Singapore Race track](/assets/images/F1_2024_R18_SingaporeGP_RacePositionChanges.jpeg)
+
+
 
 Seen above is my attempt to Infographic on created on Electronics production Trends in India. The data was sourced from India's Open Government Data (OGD) Platform (data.gov.in). It's a treasure trove of datasets and APIs. Many of them updated at periodic frequency, including real-time. The design and color scheme was my small attempt to replicate Financial Times visualization scheme.
 
