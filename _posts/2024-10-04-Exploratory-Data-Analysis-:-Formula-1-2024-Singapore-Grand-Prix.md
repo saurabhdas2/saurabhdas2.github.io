@@ -1,5 +1,5 @@
 ---
-title: "Formula 1 2024 Singapore Grand Prix Data Analysis"
+title: "Exploratory Data Analysis : Formula 1 2024 Singapore Grand Prix"
 categories:
   - Blog
 tags:
