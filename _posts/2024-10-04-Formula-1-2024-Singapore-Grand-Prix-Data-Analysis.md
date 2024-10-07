@@ -17,21 +17,21 @@ This started my quest to get my hands on such data and do data analysis. I as as
 
 Find below some of the F1 data analysis for just concluded Singapore Grand prix 2024.
 
-** About Race track **
+**About Race track**
 The Singapore Grand Prix is held on the Marina Bay Street Circuit, a challenging and iconic Formula 1 race track. As the first-ever F1 night race, it offers a visually stunning experience, with the track illuminated against the city's skyline. The circuit features 23 corners, tight turns, and narrow straights, demanding precision and skill from drivers. High humidity and heat add to the difficulty, making it one of the most physically and mentally demanding races on the F1 calendar. Its unique setting through downtown Singapore creates an exciting, urban racing atmosphere.
 
 ![Singapore Race track](/assets/images/F1_2024_R18_SingaporeGP_RaceTrack.jpeg)
 
-**Tire Strategies **
+**Tire Strategies**
 Tire strategy is crucial on the Singapore Grand Prix's Marina Bay Street Circuit due to its tight corners, high humidity, and lack of long straights. The circuit's abrasive surface and constant braking put significant stress on tires, making managing degradation key to a successful race.
 Find below the tire strategies that was observed.
 
 ![Singapore Race track](/assets/images/F1_2024_R18_SingaporeGP_RaceTyreStrategies.jpeg)
 
-**Qualification Results **
+**Qualification Results**
 ![Singapore Race track](/assets/images/F1_2024_R18_SingaporeGP_QualiResults.jpeg)
 
-**Race position changes **
+**Race position changes**
 ![Singapore Race track](/assets/images/F1_2024_R18_SingaporeGP_RacePositionChanges.jpeg)
 
 
