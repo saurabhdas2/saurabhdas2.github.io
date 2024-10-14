@@ -3,18 +3,14 @@ permalink: /about/
 title: "About"
 ---
 
-15 years of experience as an IT Professional, currently working at Tata Consultancy Services as Head of Research & Innovation Life Sciences Products and also as Architect, Product Manager, based out of Mumbai, India.
-I have completed my post-graduation Master of Technology (M.Tech) in Software Engineering from BITS, Pilani and Bachelor of Technology in Information Technology from Mumbai University.
+18 years of experience as an IT professional, I currently hold the position of Head of Research & Innovation in Life Sciences Products and serve as an Architect and Product Manager at Tata Consultancy Services, based in Mumbai, India. I hold a Master of Technology (M.Tech) in Software Engineering from BITS, Pilani, and a Bachelor of Technology in Information Technology from Mumbai University.
 
-My interests are in Data Science, System Architecture, Artifical Inteligence, Automation, IoT.
-I love doing Java and Python programming.
+My expertise lies in Data Science, System Architecture, Artificial Intelligence, Automation, and IoT. I am also passionate about programming, particularly in Java and Python.
 
-I have been granted 2 patents and filed 5 additional. For details cliick [here](https://patents.google.com/?inventor=Saurabh+Das)
+I have been granted two patents and have filed five additional patents. For more details, please [here](https://patents.google.com/?inventor=Saurabh+Das).
 
-My other interests are in Gardening, Playing Chess, Astronomy and Photography.
-Lately, I have been learning Music Production and DJing.
+In addition to my professional interests, I am passionate about gardening, chess, astronomy, and photography. I am also currently exploring music production and DJing.
 
-I am current Title holder of FIDE ICCF 'Correspondence Chess Expert', and represent India, in multiple international Correspondence Chess Tournments. View my ICCF profile [here](https://www.iccf.com/player?id=280273).
+I am proud to hold the title of FIDE ICCF 'Correspondence Chess Expert', representing India in various international correspondence chess tournaments. You can view my ICCF profile [here](https://www.iccf.com/player?id=280273).
 
-Preliminary discoverer of 5 potential asteroids in collaboration with IASC and NASA.
-
+In collaboration with the International Astronomical Search Collaboration (IASC) and NASA, I have also contributed to the preliminary discovery of five potential asteroids.
