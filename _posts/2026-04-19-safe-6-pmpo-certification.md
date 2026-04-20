@@ -9,7 +9,7 @@ tags:
 
 ---
 
-The pace of change in product development has never been this intense—and at the center of this transformation is Artificial Intelligence. Pursuing the **Certified AI-Empowered SAFe® 6 Product Owner/Product Manager (POPM) certification** is a continuation of a journey I’ve been on for years—building, leading, and delivering AI-driven products that have pushed boundaries within the industry, and sharing those learnings at conferences and forums.
+The pace of change in product development has never been this intense—and at the center of this transformation is Artificial Intelligence. Pursuing the **AI-Empowered SAFe® 6 Product Owner/Product Manager (POPM) certification** is a continuation of a journey I’ve been on for years—building, leading, and delivering AI-driven products that have pushed boundaries within the industry, and sharing those learnings at conferences and forums.
 
 ![Saurabh Das PMPO badge](/assets/images/SaurabhDasPOPM.png){: .align-center}
 
@@ -59,5 +59,5 @@ It builds on years of hands-on experience and thought leadership, enabling a mor
 
 ### Final Thoughts
 
-For me, the **Certified AI-Empowered SAFe® 6 POPM** certification represents an evolution—bringing together experience, innovation, and structured execution.
+For me, the **AI-Empowered SAFe® 6 POPM certification** represents an evolution—bringing together experience, innovation, and structured execution.
 AI in product management is no longer optional. The real differentiator lies in how effectively it is harnessed, scaled, and aligned to deliver meaningful impact. This certification adds another layer of rigor and reach to that ongoing mission.
